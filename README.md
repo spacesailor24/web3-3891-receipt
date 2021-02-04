@@ -7,6 +7,7 @@ This is a test repo for the Web3.js issue [3891](https://github.com/ChainSafe/we
 1. `git clone`
 2. `npm i`
 3. `npx truffle compile`
+4. `npx ganache-cli -m 'heavy milk crop penalty urban december room prize license long symptom royal'`
 4. `npm start`
 
 ### Expected Output
